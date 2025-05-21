@@ -1,6 +1,8 @@
 Александар Парталоски 222132
 
 Барање 2
+
+
 ![cfgPhoto](https://github.com/user-attachments/assets/84ce56cf-8cba-44b9-97dd-3ef637928a55)
 
 Барање 3
